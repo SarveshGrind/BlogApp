@@ -1,6 +1,6 @@
 import Headers from "./Headers/Headers";
 import Footers from "./Footers/Footers";
-import Container from "./container/container.jsx";
+import Container from "./Container/container.jsx";
 import Logo from "./Logo";
 import LogoutBtn from "./Headers/LogoutBtn";
 import RTE from "./RTE";
